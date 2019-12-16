@@ -50,8 +50,9 @@
   $result = mysqli_query($mysql, $query); 
   if($result)
    $rows = "";
+	echo "комментарии и отзывы пользователей";
     while($rows = $result->fetch_assoc()){
-		echo "комментарии и отзывы пользователей";
+		
     echo "<table>";
 		echo "<tr>";
 		echo "<td><b>".$rows["name"].":</b></td>";
