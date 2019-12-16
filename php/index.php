@@ -29,6 +29,7 @@
       <p style="color: red;"><strong>Внимание! На данном сайте неавторизованным пользователям доступна только главная страница! Если Вы увидели это сообщени, то скорее <a href="reg.php">РЕГИСТРИРУЙТЕСЬ!</a></strong></p>
       <?php endif; ?>
   </div>
+<div style=" width: 80%;height: 8%;margin-left: 10%;margin-right: 10%;"><p align="center"><em>«зеленый» в Китае подразумевает именно пользу для потребителя</em></p></div>
   <div class="main">
     <img style="display: block; margin: auto;border-radius: 25px;" src="back.jpg">
    <p><h2>Купить элитный китайский чай</h2>
