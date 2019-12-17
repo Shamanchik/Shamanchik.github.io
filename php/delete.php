@@ -6,10 +6,10 @@
  </head>
  <body>
   <div class="header">
-   <h1><em> Cofeйня </em></h1>
+   <h1><em> TeaTime </em></h1>
   </div>
   <div class="menu">
-   <p align=center> <a href="main.php" style="padding: 10px 5% 10px;">Вернуться на главную страницу</a></p>
+   <p align=center> <a href="index.php" style="padding: 10px 5% 10px;">Вернуться на главную страницу</a></p>
   </div>
   <div class="main" align=center>
  <?php
